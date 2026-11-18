@@ -3,14 +3,14 @@
 import { useTranslations } from 'next-intl';
 import PageHeader from '@/components/layout/PageHeader';
 import ProductGrid from '@/components/boutique/ProductGrid';
-import { getProductsByCategory } from '@/lib/mock-data';
-import type { Category } from '@/types';
+import type { Category, Product } from '@/types';
 
 interface CollectionPageProps {
   category: Category;
   title: string;
   subtitle: string;
   image: string;
+  products: Product[];
 }
 
 const CATEGORY_ORDER: Category[] = ['femme', 'parfums', 'bijoux', 'homme'];
@@ -20,9 +20,9 @@ export default function CollectionPage({
   title,
   subtitle,
   image,
+  products,
 }: CollectionPageProps) {
   const tNav = useTranslations('nav');
-  const products = getProductsByCategory(category);
 
   const chips = CATEGORY_ORDER.map((cat) => ({
     category: cat,

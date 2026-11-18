@@ -4,13 +4,15 @@ import { useLocale, useTranslations } from 'next-intl';
 import { ArrowRight } from 'lucide-react';
 import { Link } from '@/i18n/navigation';
 import { ProductCard } from '@/components/ui/ProductCard';
-import { getFeaturedProducts } from '@/lib/mock-data';
-import type { Locale } from '@/types';
+import type { Locale, Product } from '@/types';
 
-export default function FeaturedProducts() {
+interface FeaturedProductsProps {
+  products: Product[];
+}
+
+export default function FeaturedProducts({ products }: FeaturedProductsProps) {
   const t = useTranslations('home.featured');
   const locale = useLocale() as Locale;
-  const products = getFeaturedProducts();
 
   return (
     <section className="bg-ivoire py-20 md:py-28">

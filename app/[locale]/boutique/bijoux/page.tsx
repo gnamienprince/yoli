@@ -1,5 +1,8 @@
 import type { Metadata } from 'next';
 import CollectionPage from '@/components/boutique/CollectionPage';
+import { getProductsByCategory } from '@/lib/products';
+
+export const dynamic = 'force-dynamic';
 
 export const metadata: Metadata = {
   title: 'Bijoux & Accessoires — L\'Art du Detail',
@@ -17,12 +20,15 @@ export default async function BijouxPage({
 }) {
   await params;
 
+  const products = await getProductsByCategory('bijoux');
+
   return (
     <CollectionPage
       category="bijoux"
       title="Bijoux & Accessoires"
       subtitle="L'Art du Detail"
       image={IMAGE}
+      products={products}
     />
   );
 }

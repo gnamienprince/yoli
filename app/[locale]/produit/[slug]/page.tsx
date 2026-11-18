@@ -5,26 +5,20 @@ import { Breadcrumb } from '@/components/ui/Breadcrumb';
 import { ImageGallery } from '@/components/product/ImageGallery';
 import { ProductInfo } from '@/components/product/ProductInfo';
 import { RelatedProducts } from '@/components/product/RelatedProducts';
-import {
-  getProductBySlug,
-  getRelatedProducts,
-  products,
-} from '@/lib/mock-data';
+import { getProductBySlug, getRelatedProducts } from '@/lib/products';
 import type { Locale } from '@/types';
+
+export const dynamic = 'force-dynamic';
 
 interface ProductPageProps {
   params: Promise<{ locale: string; slug: string }>;
-}
-
-export function generateStaticParams() {
-  return products.map((product) => ({ slug: product.slug }));
 }
 
 export async function generateMetadata({
   params,
 }: ProductPageProps): Promise<Metadata> {
   const { locale, slug } = await params;
-  const product = getProductBySlug(slug);
+  const product = await getProductBySlug(slug);
 
   if (!product) {
     return { title: 'YoLi' };
@@ -47,7 +41,7 @@ export async function generateMetadata({
 
 export default async function ProductPage({ params }: ProductPageProps) {
   const { slug } = await params;
-  const product = getProductBySlug(slug);
+  const product = await getProductBySlug(slug);
 
   if (!product) {
     notFound();
@@ -58,7 +52,7 @@ export default async function ProductPage({ params }: ProductPageProps) {
   const tProduct = await getTranslations('product');
 
   const name = locale === 'en' ? product.nameEn : product.nameFr;
-  const related = getRelatedProducts(product);
+  const related = await getRelatedProducts(product);
 
   return (
     <div className="container-yoli py-6 md:py-10">
