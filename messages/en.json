@@ -1,0 +1,474 @@
+{
+  "nav": {
+    "femme": "Women",
+    "parfums": "Fragrances",
+    "bijoux": "Jewelry & Accessories",
+    "homme": "Men",
+    "maison": "The House",
+    "eyebrow": "The Art of Being You",
+    "search": "Search",
+    "account": "My account",
+    "favorites": "Wishlist",
+    "cart": "Cart",
+    "menu": "Menu",
+    "close": "Close",
+    "language": "Language"
+  },
+  "footer": {
+    "tagline": "The Art of Being You",
+    "newsletterTitle": "Join the House",
+    "newsletterDesc": "Be the first to receive our new arrivals, collections and private invitations.",
+    "colCollections": "Collections",
+    "colMaison": "The House",
+    "colAide": "Help",
+    "colLegal": "Legal",
+    "femme": "Women",
+    "parfums": "Fragrances",
+    "bijoux": "Jewelry & Accessories",
+    "homme": "Men",
+    "histoire": "Our Story",
+    "contact": "Contact",
+    "livraison": "Shipping",
+    "retours": "Returns & Exchanges",
+    "faq": "FAQ",
+    "cgv": "Terms of Sale",
+    "confidentialite": "Privacy",
+    "mentions": "Legal Notice",
+    "rights": "2026 YoLi. All rights reserved.",
+    "location": "Abidjan, Cote d'Ivoire",
+    "social": "Follow us"
+  },
+  "newsletter": {
+    "placeholder": "Your email address",
+    "submit": "Subscribe",
+    "success": "Thank you, you are subscribed.",
+    "error": "Something went wrong. Please try again."
+  },
+  "home": {
+    "hero": {
+      "newCollection": "New Collection",
+      "headline": "The art of being you",
+      "tagline": "The Art of Being You",
+      "cta": "Discover"
+    },
+    "universes": {
+      "subtitle": "Four worlds",
+      "title": "Explore the House",
+      "discover": "Discover",
+      "femme": "Women",
+      "parfums": "Fragrances",
+      "bijoux": "Jewelry & Accessories",
+      "homme": "Men"
+    },
+    "featured": {
+      "subtitle": "Selection",
+      "title": "Signature pieces",
+      "viewAll": "View all"
+    },
+    "story": {
+      "eyebrow": "Our House",
+      "title": "The YoLi House",
+      "body": "Born in Abidjan, YoLi celebrates an elegance that is at once modern and deeply rooted. Every creation is conceived as an invitation to claim who you are — with grace, confidence and freedom.",
+      "cta": "Our Story"
+    },
+    "instagram": {
+      "title": "Follow us",
+      "handle": "@yoli.officiel",
+      "follow": "Follow us"
+    },
+    "newsletter": {
+      "title": "Join the House",
+      "subtitle": "Be the first to receive our new arrivals, collections and private invitations."
+    }
+  },
+  "boutique": {
+    "femme": {
+      "title": "YoLi Women",
+      "subtitle": "Original Creations"
+    },
+    "parfums": {
+      "title": "YoLi Fragrances",
+      "subtitle": "Olfactory Creations"
+    },
+    "bijoux": {
+      "title": "Jewelry & Accessories",
+      "subtitle": "The Art of Detail"
+    },
+    "homme": {
+      "title": "YoLi Men",
+      "subtitle": "Imported Selection"
+    },
+    "empty": "No pieces to discover just yet. Come back soon to explore our new arrivals.",
+    "filters": {
+      "sort": "Sort",
+      "newest": "New arrivals",
+      "priceAsc": "Price: low to high",
+      "priceDesc": "Price: high to low",
+      "results": "{count, plural, =0 {No products} =1 {1 product} other {# products}}",
+      "empty": "No products found"
+    }
+  },
+  "maison": {
+    "eyebrow": "The House",
+    "title": "The YoLi House",
+    "intro": "Born in Abidjan, YoLi is a fashion and lifestyle house that celebrates everyday elegance. Four worlds, one signature: the art of being you.",
+    "histoire": {
+      "eyebrow": "Our Story",
+      "title": "One house, four worlds",
+      "p1": "YoLi is a fashion and lifestyle house founded in Cote d'Ivoire. It brings together carefully designed feminine creations, signature fragrances, a selection of jewelry and accessories, and an imported menswear collection chosen piece by piece.",
+      "p2": "Every world shares the same standard: to offer the very best, in the precision of detail and the sincerity of the gesture. YoLi dresses those who see elegance as a way of being, never as a statement."
+    },
+    "vision": {
+      "eyebrow": "Our Vision",
+      "title": "Luxury, quietly",
+      "p1": "We believe in quiet luxury: elegance in presentation, simplicity in experience. No excess, but attention paid to the essential, from the chosen material to the care of the service.",
+      "p2": "YoLi cultivates a pared-back, warm aesthetic where every piece has its reason to be. It is the art of being you, revealed effortlessly."
+    },
+    "univers": {
+      "eyebrow": "Our Worlds",
+      "title": "Explore YoLi",
+      "subtitle": "Four territories of style to discover.",
+      "femme": {
+        "name": "YoLi Women",
+        "desc": "Original feminine creations: dresses, sets, tailoring and designer pieces."
+      },
+      "parfums": {
+        "name": "YoLi Fragrances",
+        "desc": "Olfactory creations for women, men and unisex, in gift sets and discovery formats."
+      },
+      "bijoux": {
+        "name": "YoLi Jewelry & Accessories",
+        "desc": "Jewelry, bags, watches, sunglasses, belts and scarves, carefully selected."
+      },
+      "homme": {
+        "name": "YoLi Men",
+        "desc": "An imported menswear selection: suits, jackets, shirts, shoes and accessories."
+      },
+      "discover": "Discover"
+    },
+    "valeurs": {
+      "eyebrow": "Our Values",
+      "title": "What guides us",
+      "elegance": {
+        "name": "Elegance",
+        "desc": "A sober, timeless aesthetic, designed to last beyond the seasons."
+      },
+      "authenticite": {
+        "name": "Authenticity",
+        "desc": "A house true to its origins, its culture and those who wear it."
+      },
+      "qualite": {
+        "name": "Quality",
+        "desc": "Materials and finishes chosen with exacting standards, without compromise."
+      }
+    },
+    "cta": {
+      "title": "Step into the House",
+      "text": "Discover our collections and let yourself be guided by the art of being you.",
+      "button": "Explore the boutique"
+    }
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Contact us",
+    "subtitle": "A question, advice, an order? Our team is here for you.",
+    "infoTitle": "Our details",
+    "infoText": "We reply from Monday to Saturday as soon as possible.",
+    "emailLabel": "Email",
+    "email": "akassirosemira@gmail.com",
+    "phoneLabel": "Phone",
+    "phone": "07 68 14 15 34",
+    "addressLabel": "Address",
+    "address": "Abidjan, Cote d'Ivoire",
+    "hoursLabel": "Hours",
+    "hours": "Mon - Sat: 9:00 - 19:00",
+    "formTitle": "Write to us",
+    "name": "Full name",
+    "namePlaceholder": "Your name",
+    "emailField": "Email address",
+    "emailPlaceholder": "you@example.com",
+    "subject": "Subject",
+    "subjectPlaceholder": "What is your message about",
+    "message": "Message",
+    "messagePlaceholder": "How can we help you?",
+    "submit": "Send message",
+    "sending": "Sending...",
+    "success": "Thank you, your message has been sent. We will get back to you very soon.",
+    "error": "Something went wrong. Please try again.",
+    "validation": {
+      "name": "Please enter your name.",
+      "email": "Please enter a valid email address.",
+      "subject": "Please enter a subject.",
+      "message": "Your message must be at least 10 characters long."
+    }
+  },
+  "cart": {
+    "eyebrow": "Cart",
+    "title": "Your cart",
+    "empty": {
+      "title": "Your cart is empty",
+      "text": "There are no pieces in your cart yet. Explore our collections and let yourself be inspired.",
+      "button": "Discover the boutique"
+    },
+    "headProduct": "Item",
+    "headPrice": "Price",
+    "headQuantity": "Quantity",
+    "headTotal": "Total",
+    "size": "Size",
+    "color": "Color",
+    "remove": "Remove",
+    "summary": "Summary",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "shippingValue": "Calculated at the next step",
+    "total": "Total",
+    "checkout": "Proceed to checkout",
+    "continue": "Continue shopping"
+  },
+  "checkout": {
+    "eyebrow": "Checkout",
+    "title": "Complete your order",
+    "contactSection": "Your details",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "email": "Email address",
+    "phone": "Phone",
+    "deliverySection": "Delivery",
+    "address": "Address",
+    "city": "City",
+    "country": "Country",
+    "deliveryMode": "Delivery method",
+    "home": "Home delivery",
+    "homeDesc": "Receive your order directly at your door.",
+    "relay": "Pickup point",
+    "relayDesc": "Collect your order at a nearby pickup point.",
+    "paymentSection": "Payment",
+    "paymentNote": "Secure payment - integration coming soon.",
+    "wave": "Wave",
+    "orange": "Orange Money",
+    "mtn": "MTN Mobile Money",
+    "moov": "Moov Money",
+    "card": "Visa / Mastercard",
+    "summary": "Your order",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "shippingFree": "Free",
+    "total": "Total",
+    "submit": "Confirm order",
+    "processing": "Processing...",
+    "showSummary": "View summary",
+    "hideSummary": "Hide summary",
+    "empty": "Your cart is empty.",
+    "backToShop": "Back to the boutique",
+    "confirmation": {
+      "title": "Thank you for your order",
+      "text": "Your order has been recorded. You will receive a confirmation by email, and our team will contact you to finalize payment and delivery.",
+      "button": "Back to home"
+    }
+  },
+  "auth": {
+    "login": {
+      "eyebrow": "Client area",
+      "title": "Sign in",
+      "subtitle": "Access your YoLi account.",
+      "email": "Email address",
+      "emailPlaceholder": "you@example.com",
+      "password": "Password",
+      "passwordPlaceholder": "Your password",
+      "submit": "Sign in",
+      "signingIn": "Signing in...",
+      "forgot": "Forgot your password?",
+      "noAccount": "No account yet?",
+      "register": "Create an account",
+      "error": "Incorrect email or password."
+    },
+    "register": {
+      "eyebrow": "Client area",
+      "title": "Create an account",
+      "subtitle": "Join the YoLi House.",
+      "firstName": "First name",
+      "lastName": "Last name",
+      "email": "Email address",
+      "emailPlaceholder": "you@example.com",
+      "password": "Password",
+      "passwordPlaceholder": "8 characters minimum",
+      "confirm": "Confirm password",
+      "confirmPlaceholder": "Repeat the password",
+      "submit": "Create my account",
+      "creating": "Creating...",
+      "haveAccount": "Already have an account?",
+      "login": "Sign in",
+      "mismatch": "The passwords do not match.",
+      "tooShort": "The password must be at least 8 characters long.",
+      "error": "Account creation failed. This email may already be in use."
+    }
+  },
+  "legal": {
+    "livraison": {
+      "eyebrow": "Help",
+      "title": "Shipping",
+      "sections": [
+        {
+          "heading": "Zones and timeframes",
+          "body": "We deliver throughout Abidjan within 3 to 5 business days. For the rest of Cote d'Ivoire, allow 5 to 8 business days. International deliveries are handled case by case; contact us for a quote."
+        },
+        {
+          "heading": "Shipping fees",
+          "body": "Shipping fees are calculated based on your address and the chosen method, and shown before you confirm your order. Shipping is free in Abidjan on orders over 150,000 FCFA."
+        },
+        {
+          "heading": "Order tracking",
+          "body": "As soon as your order ships, you receive a confirmation by email or message. Our team remains available to track your parcel at every step."
+        },
+        {
+          "heading": "Delivery methods",
+          "body": "You may choose home delivery or pickup-point collection at checkout. An appointment can be arranged for designer pieces and made-to-measure orders."
+        }
+      ]
+    },
+    "retours": {
+      "eyebrow": "Help",
+      "title": "Returns & Exchanges",
+      "sections": [
+        {
+          "heading": "Return window",
+          "body": "You have 14 days after delivery to request a return or exchange. Items must be returned as new, unworn, with their tags and original packaging."
+        },
+        {
+          "heading": "Non-returnable items",
+          "body": "For hygiene reasons, opened fragrances, pierced jewelry and personalized or made-to-measure items cannot be returned or exchanged, unless a defect is found."
+        },
+        {
+          "heading": "How to proceed",
+          "body": "Contact us by email or phone with your order number. We will send you the return or exchange instructions within 48 hours."
+        },
+        {
+          "heading": "Refunds",
+          "body": "After we receive and check the item, refunds are issued within 7 to 10 business days to the original payment method, or as store credit depending on your preference."
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Help",
+      "title": "Frequently asked questions",
+      "items": [
+        {
+          "q": "What are the delivery timeframes?",
+          "a": "In Abidjan, allow 3 to 5 business days. For the rest of the country, 5 to 8 business days. Timeframes are confirmed at checkout."
+        },
+        {
+          "q": "Which payment methods do you accept?",
+          "a": "We accept Wave, Orange Money, MTN Mobile Money, Moov Money as well as Visa and Mastercard. Secure online payment will be integrated soon."
+        },
+        {
+          "q": "Can I return an item?",
+          "a": "Yes, you have 14 days after delivery for a return or exchange, provided the item is new, unworn and in its original packaging."
+        },
+        {
+          "q": "Do you offer made-to-measure creations?",
+          "a": "Yes. YoLi Women offers designer pieces and made-to-measure creations. Contact us for an appointment and personalized guidance."
+        },
+        {
+          "q": "How do I choose my size?",
+          "a": "A size guide is available on every product page. If in doubt, our team is happy to advise you by email or phone."
+        },
+        {
+          "q": "Do you ship internationally?",
+          "a": "Deliveries outside Cote d'Ivoire are possible case by case. Contact us for timeframes and fees applicable to your country."
+        }
+      ]
+    },
+    "cgv": {
+      "eyebrow": "Legal",
+      "title": "Terms and conditions of sale",
+      "sections": [
+        {
+          "heading": "1. Purpose",
+          "body": "These terms and conditions of sale govern sales of products offered by YoLi on its website. Any order implies full and complete acceptance of these terms."
+        },
+        {
+          "heading": "2. Products and prices",
+          "body": "Products are presented with the utmost care. Prices are shown in CFA francs (FCFA), all taxes included. YoLi reserves the right to change its prices at any time, products being invoiced at the rate in force at the time of the order."
+        },
+        {
+          "heading": "3. Orders",
+          "body": "An order is confirmed once the customer validates it and payment is accepted. YoLi reserves the right to cancel any order in the event of a dispute, unavailability or payment issue."
+        },
+        {
+          "heading": "4. Payment",
+          "body": "Payment is made via Wave, Orange Money, MTN Mobile Money, Moov Money or bank card. The order is processed only after payment confirmation."
+        },
+        {
+          "heading": "5. Delivery",
+          "body": "Delivery timeframes and fees are specified at checkout. YoLi cannot be held liable for delays attributable to the carrier or to a force majeure event."
+        },
+        {
+          "heading": "6. Right of withdrawal",
+          "body": "In accordance with our policy, you have 14 days to return an item under the conditions set out on our Returns & Exchanges page."
+        }
+      ]
+    },
+    "confidentialite": {
+      "eyebrow": "Legal",
+      "title": "Privacy policy",
+      "sections": [
+        {
+          "heading": "Data collected",
+          "body": "We collect the information needed to process your orders and manage the customer relationship: name, contact details, delivery address and purchase history. This data is strictly confidential."
+        },
+        {
+          "heading": "Use of data",
+          "body": "Your data is used to process your orders, to inform you of our new arrivals if you have consented, and to improve your experience. It is never sold to third parties."
+        },
+        {
+          "heading": "Cookies",
+          "body": "Our site uses cookies essential to the proper functioning of the cart and your session. Analytics cookies are only placed with your consent."
+        },
+        {
+          "heading": "Your rights",
+          "body": "You have the right to access, correct and delete your personal data. To exercise these rights, write to us at akassirosemira@gmail.com."
+        }
+      ]
+    },
+    "mentions": {
+      "eyebrow": "Legal",
+      "title": "Legal notice",
+      "sections": [
+        {
+          "heading": "Site publisher",
+          "body": "This site is published by YoLi, a fashion and lifestyle house based in Abidjan, Cote d'Ivoire. Contact: akassirosemira@gmail.com - 07 68 14 15 34."
+        },
+        {
+          "heading": "Intellectual property",
+          "body": "All content on the site (text, visuals, logos, creations) is the exclusive property of YoLi. Any reproduction, in whole or in part, is prohibited without prior authorization."
+        },
+        {
+          "heading": "Hosting",
+          "body": "The site is hosted by a provider ensuring the availability and security of data. The host's details are available on request."
+        },
+        {
+          "heading": "Liability",
+          "body": "YoLi strives to ensure the accuracy of the information published. YoLi cannot be held liable for any error, omission or temporary unavailability of the site."
+        }
+      ]
+    }
+  },
+  "product": {
+    "home": "Home",
+    "size": "Size",
+    "sizeGuide": "Size guide",
+    "selectSize": "Please select a size.",
+    "color": "Color",
+    "quantity": "Quantity",
+    "addToCart": "Add to cart",
+    "addToFavorites": "Add to wishlist",
+    "removeFromFavorites": "Remove from wishlist",
+    "outOfStock": "Sold out",
+    "lastPieces": "Last pieces",
+    "shippingTitle": "Shipping & Returns",
+    "shippingContent": "Complimentary delivery in Abidjan from 150,000 FCFA. Dispatch within 3 to 5 working days in Abidjan, 5 to 8 days elsewhere in the country. Returns and exchanges accepted within 14 days on unworn items in their original packaging.",
+    "compositionTitle": "Composition & Care",
+    "compositionContent": "Fine materials carefully selected by the House of YoLi. Gentle care recommended; dry cleaning preferred. Keep away from direct light and humidity to preserve the materials.",
+    "relatedTitle": "You may also like"
+  }
+}

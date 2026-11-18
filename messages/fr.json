@@ -1,0 +1,474 @@
+{
+  "nav": {
+    "femme": "Femme",
+    "parfums": "Parfums",
+    "bijoux": "Bijoux & Accessoires",
+    "homme": "Homme",
+    "maison": "La Maison",
+    "eyebrow": "The Art of Being You",
+    "search": "Rechercher",
+    "account": "Mon compte",
+    "favorites": "Favoris",
+    "cart": "Panier",
+    "menu": "Menu",
+    "close": "Fermer",
+    "language": "Langue"
+  },
+  "footer": {
+    "tagline": "The Art of Being You",
+    "newsletterTitle": "Rejoignez la Maison",
+    "newsletterDesc": "Recevez nos nouveautes, collections et invitations privees en avant-premiere.",
+    "colCollections": "Collections",
+    "colMaison": "La Maison",
+    "colAide": "Aide",
+    "colLegal": "Legal",
+    "femme": "Femme",
+    "parfums": "Parfums",
+    "bijoux": "Bijoux & Accessoires",
+    "homme": "Homme",
+    "histoire": "Notre Histoire",
+    "contact": "Contact",
+    "livraison": "Livraison",
+    "retours": "Retours & Echanges",
+    "faq": "FAQ",
+    "cgv": "CGV",
+    "confidentialite": "Confidentialite",
+    "mentions": "Mentions legales",
+    "rights": "2026 YoLi. Tous droits reserves.",
+    "location": "Abidjan, Cote d'Ivoire",
+    "social": "Suivez-nous"
+  },
+  "newsletter": {
+    "placeholder": "Votre adresse e-mail",
+    "submit": "S'inscrire",
+    "success": "Merci, vous etes inscrit(e).",
+    "error": "Une erreur est survenue. Reessayez."
+  },
+  "home": {
+    "hero": {
+      "newCollection": "Nouvelle Collection",
+      "headline": "L'art d'etre soi",
+      "tagline": "The Art of Being You",
+      "cta": "Decouvrir"
+    },
+    "universes": {
+      "subtitle": "Quatre univers",
+      "title": "Explorez la Maison",
+      "discover": "Decouvrir",
+      "femme": "Femme",
+      "parfums": "Parfums",
+      "bijoux": "Bijoux & Accessoires",
+      "homme": "Homme"
+    },
+    "featured": {
+      "subtitle": "Selection",
+      "title": "Pieces signatures",
+      "viewAll": "Voir tout"
+    },
+    "story": {
+      "eyebrow": "Notre Maison",
+      "title": "La Maison YoLi",
+      "body": "Nee a Abidjan, YoLi celebre une elegance a la fois moderne et profondement enracinee. Chaque creation est pensee comme une invitation a revendiquer qui vous etes — avec grace, assurance et liberte.",
+      "cta": "Notre Histoire"
+    },
+    "instagram": {
+      "title": "Suivez-nous",
+      "handle": "@yoli.officiel",
+      "follow": "Nous suivre"
+    },
+    "newsletter": {
+      "title": "Rejoignez la Maison",
+      "subtitle": "Recevez nos nouveautes, collections et invitations privees en avant-premiere."
+    }
+  },
+  "boutique": {
+    "femme": {
+      "title": "YoLi Femme",
+      "subtitle": "Creations Originales"
+    },
+    "parfums": {
+      "title": "YoLi Parfums",
+      "subtitle": "Creations Olfactives"
+    },
+    "bijoux": {
+      "title": "Bijoux & Accessoires",
+      "subtitle": "L'Art du Detail"
+    },
+    "homme": {
+      "title": "YoLi Homme",
+      "subtitle": "Selection Importee"
+    },
+    "empty": "Aucun produit a decouvrir pour le moment. Revenez bientot explorer nos nouveautes.",
+    "filters": {
+      "sort": "Trier",
+      "newest": "Nouveautes",
+      "priceAsc": "Prix croissant",
+      "priceDesc": "Prix decroissant",
+      "results": "{count, plural, =0 {Aucun produit} =1 {1 produit} other {# produits}}",
+      "empty": "Aucun produit trouve"
+    }
+  },
+  "maison": {
+    "eyebrow": "La Maison",
+    "title": "La Maison YoLi",
+    "intro": "Nee a Abidjan, YoLi est une maison de mode et de lifestyle qui celebre l'elegance au quotidien. Quatre univers, une meme signature : l'art d'etre soi.",
+    "histoire": {
+      "eyebrow": "Notre Histoire",
+      "title": "Une maison, quatre univers",
+      "p1": "YoLi est une maison de mode et de lifestyle fondee en Cote d'Ivoire. Elle rassemble des creations feminines dessinees avec soin, des parfums signature, une selection de bijoux et d'accessoires, ainsi qu'une collection masculine importee et choisie piece par piece.",
+      "p2": "Chaque univers partage une meme exigence : offrir le meilleur, dans la justesse du detail et la sincerite du geste. YoLi habille celles et ceux qui voient l'elegance comme une maniere d'etre, jamais comme une demonstration."
+    },
+    "vision": {
+      "eyebrow": "Notre Vision",
+      "title": "Le luxe, en silence",
+      "p1": "Nous croyons a un luxe discret : l'elegance dans la presentation, la simplicite dans l'experience. Pas de surenchere, mais une attention portee a l'essentiel, de la matiere choisie au soin du service.",
+      "p2": "YoLi cultive une esthetique epuree et chaleureuse, ou chaque piece a sa raison d'etre. C'est l'art d'etre soi, revele sans effort."
+    },
+    "univers": {
+      "eyebrow": "Nos Univers",
+      "title": "Explorer YoLi",
+      "subtitle": "Quatre territoires de style a decouvrir.",
+      "femme": {
+        "name": "YoLi Femme",
+        "desc": "Creations feminines originales : robes, ensembles, tailleurs et tenues de createur."
+      },
+      "parfums": {
+        "name": "YoLi Parfums",
+        "desc": "Creations olfactives femme, homme et mixte, en coffrets et formats decouverte."
+      },
+      "bijoux": {
+        "name": "YoLi Bijoux & Accessoires",
+        "desc": "Bijoux, sacs, montres, lunettes, ceintures et foulards soigneusement choisis."
+      },
+      "homme": {
+        "name": "YoLi Homme",
+        "desc": "Une selection masculine importee : costumes, vestes, chemises, chaussures et accessoires."
+      },
+      "discover": "Decouvrir"
+    },
+    "valeurs": {
+      "eyebrow": "Nos Valeurs",
+      "title": "Ce qui nous guide",
+      "elegance": {
+        "name": "Elegance",
+        "desc": "Une esthetique sobre et intemporelle, pensee pour durer au-dela des saisons."
+      },
+      "authenticite": {
+        "name": "Authenticite",
+        "desc": "Une maison fidele a ses origines, a sa culture et a celles et ceux qui la portent."
+      },
+      "qualite": {
+        "name": "Qualite",
+        "desc": "Des matieres et des finitions choisies avec exigence, sans compromis."
+      }
+    },
+    "cta": {
+      "title": "Entrez dans la Maison",
+      "text": "Decouvrez nos collections et laissez-vous guider par l'art d'etre vous.",
+      "button": "Explorer la boutique"
+    }
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Contactez-nous",
+    "subtitle": "Une question, un conseil, une commande ? Notre equipe vous repond.",
+    "infoTitle": "Nos coordonnees",
+    "infoText": "Nous vous repondons du lundi au samedi dans les meilleurs delais.",
+    "emailLabel": "E-mail",
+    "email": "akassirosemira@gmail.com",
+    "phoneLabel": "Telephone",
+    "phone": "07 68 14 15 34",
+    "addressLabel": "Adresse",
+    "address": "Abidjan, Cote d'Ivoire",
+    "hoursLabel": "Horaires",
+    "hours": "Lun - Sam : 9h00 - 19h00",
+    "formTitle": "Ecrivez-nous",
+    "name": "Nom complet",
+    "namePlaceholder": "Votre nom",
+    "emailField": "Adresse e-mail",
+    "emailPlaceholder": "vous@exemple.com",
+    "subject": "Sujet",
+    "subjectPlaceholder": "L'objet de votre message",
+    "message": "Message",
+    "messagePlaceholder": "Comment pouvons-nous vous aider ?",
+    "submit": "Envoyer le message",
+    "sending": "Envoi en cours...",
+    "success": "Merci, votre message a bien ete envoye. Nous vous repondrons tres vite.",
+    "error": "Une erreur est survenue. Merci de reessayer.",
+    "validation": {
+      "name": "Veuillez indiquer votre nom.",
+      "email": "Veuillez indiquer une adresse e-mail valide.",
+      "subject": "Veuillez indiquer un sujet.",
+      "message": "Votre message doit contenir au moins 10 caracteres."
+    }
+  },
+  "cart": {
+    "eyebrow": "Panier",
+    "title": "Votre panier",
+    "empty": {
+      "title": "Votre panier est vide",
+      "text": "Il n'y a encore aucune piece dans votre panier. Explorez nos collections et laissez-vous inspirer.",
+      "button": "Decouvrir la boutique"
+    },
+    "headProduct": "Article",
+    "headPrice": "Prix",
+    "headQuantity": "Quantite",
+    "headTotal": "Total",
+    "size": "Taille",
+    "color": "Couleur",
+    "remove": "Retirer",
+    "summary": "Recapitulatif",
+    "subtotal": "Sous-total",
+    "shipping": "Livraison",
+    "shippingValue": "Calculee a l'etape suivante",
+    "total": "Total",
+    "checkout": "Passer la commande",
+    "continue": "Continuer mes achats"
+  },
+  "checkout": {
+    "eyebrow": "Commande",
+    "title": "Finaliser la commande",
+    "contactSection": "Vos coordonnees",
+    "firstName": "Prenom",
+    "lastName": "Nom",
+    "email": "Adresse e-mail",
+    "phone": "Telephone",
+    "deliverySection": "Livraison",
+    "address": "Adresse",
+    "city": "Ville",
+    "country": "Pays",
+    "deliveryMode": "Mode de livraison",
+    "home": "Livraison a domicile",
+    "homeDesc": "Recevez votre commande directement chez vous.",
+    "relay": "Point relais",
+    "relayDesc": "Retirez votre commande dans un point relais proche.",
+    "paymentSection": "Paiement",
+    "paymentNote": "Paiement securise - integration a venir.",
+    "wave": "Wave",
+    "orange": "Orange Money",
+    "mtn": "MTN Mobile Money",
+    "moov": "Moov Money",
+    "card": "Visa / Mastercard",
+    "summary": "Votre commande",
+    "subtotal": "Sous-total",
+    "shipping": "Livraison",
+    "shippingFree": "Offerte",
+    "total": "Total",
+    "submit": "Confirmer la commande",
+    "processing": "Traitement en cours...",
+    "showSummary": "Voir le recapitulatif",
+    "hideSummary": "Masquer le recapitulatif",
+    "empty": "Votre panier est vide.",
+    "backToShop": "Retour a la boutique",
+    "confirmation": {
+      "title": "Merci pour votre commande",
+      "text": "Votre commande a bien ete enregistree. Vous recevrez une confirmation par e-mail, et notre equipe vous contactera pour finaliser le paiement et la livraison.",
+      "button": "Retour a l'accueil"
+    }
+  },
+  "auth": {
+    "login": {
+      "eyebrow": "Espace client",
+      "title": "Connexion",
+      "subtitle": "Accedez a votre compte YoLi.",
+      "email": "Adresse e-mail",
+      "emailPlaceholder": "vous@exemple.com",
+      "password": "Mot de passe",
+      "passwordPlaceholder": "Votre mot de passe",
+      "submit": "Se connecter",
+      "signingIn": "Connexion...",
+      "forgot": "Mot de passe oublie ?",
+      "noAccount": "Pas encore de compte ?",
+      "register": "Creer un compte",
+      "error": "E-mail ou mot de passe incorrect."
+    },
+    "register": {
+      "eyebrow": "Espace client",
+      "title": "Creer un compte",
+      "subtitle": "Rejoignez la Maison YoLi.",
+      "firstName": "Prenom",
+      "lastName": "Nom",
+      "email": "Adresse e-mail",
+      "emailPlaceholder": "vous@exemple.com",
+      "password": "Mot de passe",
+      "passwordPlaceholder": "8 caracteres minimum",
+      "confirm": "Confirmer le mot de passe",
+      "confirmPlaceholder": "Repetez le mot de passe",
+      "submit": "Creer mon compte",
+      "creating": "Creation...",
+      "haveAccount": "Deja un compte ?",
+      "login": "Se connecter",
+      "mismatch": "Les mots de passe ne correspondent pas.",
+      "tooShort": "Le mot de passe doit contenir au moins 8 caracteres.",
+      "error": "La creation du compte a echoue. Cette adresse est peut-etre deja utilisee."
+    }
+  },
+  "legal": {
+    "livraison": {
+      "eyebrow": "Aide",
+      "title": "Livraison",
+      "sections": [
+        {
+          "heading": "Zones et delais",
+          "body": "Nous livrons dans tout Abidjan sous 3 a 5 jours ouvres. Pour l'interieur de la Cote d'Ivoire, comptez 5 a 8 jours ouvres. Les livraisons a l'international sont etudiees au cas par cas ; contactez-nous pour un devis."
+        },
+        {
+          "heading": "Frais de livraison",
+          "body": "Les frais de livraison sont calcules selon votre adresse et le mode choisi, et vous sont indiques avant la validation de votre commande. La livraison est offerte a Abidjan des 150 000 FCFA d'achat."
+        },
+        {
+          "heading": "Suivi de commande",
+          "body": "Des l'expedition, vous recevez une confirmation par e-mail ou par message. Notre equipe reste joignable pour suivre votre colis a chaque etape."
+        },
+        {
+          "heading": "Modes de livraison",
+          "body": "Vous pouvez choisir la livraison a domicile ou le retrait en point relais lors de la commande. Un rendez-vous peut etre convenu pour les pieces de createur et les commandes sur mesure."
+        }
+      ]
+    },
+    "retours": {
+      "eyebrow": "Aide",
+      "title": "Retours & Echanges",
+      "sections": [
+        {
+          "heading": "Delai de retour",
+          "body": "Vous disposez de 14 jours apres reception pour demander un retour ou un echange. Les articles doivent etre retournes neufs, non portes, avec leurs etiquettes et leur emballage d'origine."
+        },
+        {
+          "heading": "Articles non repris",
+          "body": "Pour des raisons d'hygiene, les parfums ouverts, les bijoux perces et les articles personnalises ou sur mesure ne peuvent etre ni repris ni echanges, sauf defaut constate."
+        },
+        {
+          "heading": "Comment proceder",
+          "body": "Contactez-nous par e-mail ou telephone en indiquant votre numero de commande. Nous vous communiquons la marche a suivre pour le retour ou l'echange sous 48 heures."
+        },
+        {
+          "heading": "Remboursement",
+          "body": "Apres reception et verification de l'article, le remboursement est effectue sous 7 a 10 jours ouvres via le moyen de paiement initial, ou sous forme d'avoir selon votre preference."
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Aide",
+      "title": "Questions frequentes",
+      "items": [
+        {
+          "q": "Quels sont les delais de livraison ?",
+          "a": "A Abidjan, comptez 3 a 5 jours ouvres. Pour l'interieur du pays, 5 a 8 jours ouvres. Les delais vous sont confirmes a la commande."
+        },
+        {
+          "q": "Quels moyens de paiement acceptez-vous ?",
+          "a": "Nous acceptons Wave, Orange Money, MTN Mobile Money, Moov Money ainsi que les cartes Visa et Mastercard. Le paiement securise en ligne sera bientot integre."
+        },
+        {
+          "q": "Puis-je retourner un article ?",
+          "a": "Oui, vous disposez de 14 jours apres reception pour un retour ou un echange, sous reserve que l'article soit neuf, non porte et dans son emballage d'origine."
+        },
+        {
+          "q": "Proposez-vous des creations sur mesure ?",
+          "a": "Oui. YoLi Femme propose des pieces de createur et des creations sur mesure. Contactez-nous pour un rendez-vous et un accompagnement personnalise."
+        },
+        {
+          "q": "Comment choisir ma taille ?",
+          "a": "Un guide des tailles est disponible sur chaque fiche produit. En cas de doute, notre equipe vous conseille volontiers par e-mail ou telephone."
+        },
+        {
+          "q": "Livrez-vous a l'international ?",
+          "a": "Les livraisons hors de Cote d'Ivoire sont possibles au cas par cas. Contactez-nous pour connaitre les delais et les frais applicables a votre pays."
+        }
+      ]
+    },
+    "cgv": {
+      "eyebrow": "Legal",
+      "title": "Conditions generales de vente",
+      "sections": [
+        {
+          "heading": "1. Objet",
+          "body": "Les presentes conditions generales de vente regissent les ventes de produits proposes par YoLi sur son site. Toute commande implique l'acceptation pleine et entiere de ces conditions."
+        },
+        {
+          "heading": "2. Produits et prix",
+          "body": "Les produits sont presentes avec le plus grand soin. Les prix sont indiques en francs CFA (FCFA), toutes taxes comprises. YoLi se reserve le droit de modifier ses prix a tout moment, les produits etant factures au tarif en vigueur lors de la commande."
+        },
+        {
+          "heading": "3. Commande",
+          "body": "La commande est validee apres confirmation par le client et acceptation du paiement. YoLi se reserve le droit d'annuler toute commande en cas de litige, d'indisponibilite ou de probleme de paiement."
+        },
+        {
+          "heading": "4. Paiement",
+          "body": "Le paiement s'effectue par Wave, Orange Money, MTN Mobile Money, Moov Money ou carte bancaire. La commande n'est traitee qu'apres confirmation du reglement."
+        },
+        {
+          "heading": "5. Livraison",
+          "body": "Les delais et frais de livraison sont precises lors de la commande. YoLi ne saurait etre tenue responsable des retards imputables au transporteur ou a un cas de force majeure."
+        },
+        {
+          "heading": "6. Retractation",
+          "body": "Conformement a notre politique, vous disposez de 14 jours pour retourner un article dans les conditions prevues par notre page Retours & Echanges."
+        }
+      ]
+    },
+    "confidentialite": {
+      "eyebrow": "Legal",
+      "title": "Politique de confidentialite",
+      "sections": [
+        {
+          "heading": "Donnees collectees",
+          "body": "Nous collectons les informations necessaires au traitement de vos commandes et a la relation client : nom, coordonnees, adresse de livraison et historique d'achats. Ces donnees sont strictement confidentielles."
+        },
+        {
+          "heading": "Utilisation des donnees",
+          "body": "Vos donnees servent a traiter vos commandes, a vous informer de nos nouveautes si vous y avez consenti, et a ameliorer votre experience. Elles ne sont jamais vendues a des tiers."
+        },
+        {
+          "heading": "Cookies",
+          "body": "Notre site utilise des cookies essentiels au bon fonctionnement du panier et de votre session. Les cookies de mesure d'audience ne sont deposes qu'avec votre accord."
+        },
+        {
+          "heading": "Vos droits",
+          "body": "Vous disposez d'un droit d'acces, de rectification et de suppression de vos donnees personnelles. Pour exercer ces droits, ecrivez-nous a akassirosemira@gmail.com."
+        }
+      ]
+    },
+    "mentions": {
+      "eyebrow": "Legal",
+      "title": "Mentions legales",
+      "sections": [
+        {
+          "heading": "Editeur du site",
+          "body": "Le present site est edite par YoLi, maison de mode et de lifestyle basee a Abidjan, Cote d'Ivoire. Contact : akassirosemira@gmail.com - 07 68 14 15 34."
+        },
+        {
+          "heading": "Propriete intellectuelle",
+          "body": "L'ensemble des contenus du site (textes, visuels, logos, creations) est la propriete exclusive de YoLi. Toute reproduction, totale ou partielle, est interdite sans autorisation prealable."
+        },
+        {
+          "heading": "Hebergement",
+          "body": "Le site est heberge par un prestataire assurant la disponibilite et la securite des donnees. Les coordonnees de l'hebergeur sont disponibles sur demande."
+        },
+        {
+          "heading": "Responsabilite",
+          "body": "YoLi s'efforce d'assurer l'exactitude des informations publiees. La responsabilite de YoLi ne saurait etre engagee pour toute erreur, omission ou indisponibilite temporaire du site."
+        }
+      ]
+    }
+  },
+  "product": {
+    "home": "Accueil",
+    "size": "Taille",
+    "sizeGuide": "Guide des tailles",
+    "selectSize": "Veuillez selectionner une taille.",
+    "color": "Couleur",
+    "quantity": "Quantite",
+    "addToCart": "Ajouter au panier",
+    "addToFavorites": "Ajouter aux favoris",
+    "removeFromFavorites": "Retirer des favoris",
+    "outOfStock": "Epuise",
+    "lastPieces": "Dernieres pieces",
+    "shippingTitle": "Livraison & Retours",
+    "shippingContent": "Livraison offerte a Abidjan des 150 000 FCFA. Expedition sous 3 a 5 jours ouvres a Abidjan, 5 a 8 jours pour l'interieur du pays. Retours et echanges acceptes sous 14 jours sur les articles neufs, non portes, dans leur emballage d'origine.",
+    "compositionTitle": "Composition & Entretien",
+    "compositionContent": "Matieres nobles selectionnees avec soin par la Maison YoLi. Entretien delicat recommande ; privilegiez le nettoyage a sec. Conservez a l'abri de la lumiere directe et de l'humidite pour preserver l'eclat des matieres.",
+    "relatedTitle": "Vous aimerez aussi"
+  }
+}
